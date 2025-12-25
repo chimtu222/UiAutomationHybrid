@@ -1,0 +1,17 @@
+[INFO] 2025-11-11 14:57:20,751 utils.LoggerGeneretor info - Clicked Search Bar
+[INFO] 2025-11-11 14:57:22,363 utils.LoggerGeneretor info - Search Element Passed to search Bar
+[INFO] 2025-11-11 14:57:28,501 utils.LoggerGeneretor info - Clicked Search Button
+[INFO] 2025-11-11 14:57:28,712 utils.LoggerGeneretor info - Clicked First Product Card
+[INFO] 2025-11-11 14:57:33,997 utils.LoggerGeneretor info - Product Details Found in Result Page
+[INFO] 2025-11-11 14:59:55,912 utils.LoggerGeneretor info - Clicked Search Bar
+[INFO] 2025-11-11 14:59:57,768 utils.LoggerGeneretor info - Search Element Passed to search Bar
+[INFO] 2025-11-11 15:00:02,817 utils.LoggerGeneretor info - Clicked Search Button
+[INFO] 2025-11-11 15:00:03,875 utils.LoggerGeneretor info - Clicked First Product Card
+[INFO] 2025-11-11 15:00:09,241 utils.LoggerGeneretor info - Product Details Found in Result Page
+[INFO] 2025-11-11 15:00:21,068 utils.LoggerGeneretor info - Clicked Top Ranking Products
+[INFO] 2025-11-11 15:00:26,755 utils.LoggerGeneretor info - Clicked New Releases
+[INFO] 2025-11-11 15:00:30,462 utils.LoggerGeneretor info - Clicked First Product Card
+[INFO] 2025-11-11 15:00:30,803 utils.LoggerGeneretor info - Clicked Add Inquiry Basket
+[ERROR] 2025-11-11 15:00:51,451 utils.LoggerGeneretor error - Failed to Click Add Inquiry Basket icon...
+[INFO] 2025-11-11 15:01:01,006 utils.LoggerGeneretor info - Hovered On Help Menu
+[ERROR] 2025-11-11 15:01:15,048 utils.LoggerGeneretor error - Failed to Click on Submit A Complaint...

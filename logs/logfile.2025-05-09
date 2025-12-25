@@ -1,0 +1,18 @@
+[INFO] 2025-05-09 17:04:23,994 utils.LoggerGeneretor info - Hovered On Sign in/Join
+[ERROR] 2025-05-09 17:04:44,748 utils.LoggerGeneretor error - Failed to  click on Sign in...
+[INFO] 2025-05-09 17:04:53,308 utils.LoggerGeneretor info - Clicked Sign in Button
+[INFO] 2025-05-09 17:04:53,330 utils.LoggerGeneretor info - Email Warning Present
+[INFO] 2025-05-09 17:04:53,778 utils.LoggerGeneretor info - Password Warning Present
+[INFO] 2025-05-09 17:04:54,043 utils.LoggerGeneretor info - Clicked FaceBook icon
+[INFO] 2025-05-09 17:05:07,820 utils.LoggerGeneretor info - Hovered On Sign in/Join
+[INFO] 2025-05-09 17:05:18,993 utils.LoggerGeneretor info - Clicked On Sign in
+[INFO] 2025-05-09 17:05:19,125 utils.LoggerGeneretor info - Clicked Sign in Button
+[INFO] 2025-05-09 17:05:19,154 utils.LoggerGeneretor info - Email Warning Present
+[INFO] 2025-05-09 17:05:19,501 utils.LoggerGeneretor info - Password Warning Present
+[INFO] 2025-05-09 17:05:23,055 utils.LoggerGeneretor info - Clicked Forgot Password
+[INFO] 2025-05-09 17:05:23,075 utils.LoggerGeneretor info - Forgot Password Page Verified
+[INFO] 2025-05-09 17:05:35,746 utils.LoggerGeneretor info - Clicked Search Bar
+[INFO] 2025-05-09 17:05:37,507 utils.LoggerGeneretor info - Search Element Passed to search Bar
+[INFO] 2025-05-09 17:05:42,659 utils.LoggerGeneretor info - Clicked Search Button
+[INFO] 2025-05-09 17:05:44,797 utils.LoggerGeneretor info - Clicked First Product Card
+[ERROR] 2025-05-09 17:05:57,691 utils.LoggerGeneretor error - Product Result Page Not Found...

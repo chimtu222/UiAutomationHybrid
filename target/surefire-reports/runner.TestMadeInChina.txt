@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: runner.TestMadeInChina
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 111.708 s <<< FAILURE! - in runner.TestMadeInChina
+verifyingSupplierEmailPage(runner.TestMadeInChina)  Time elapsed: 33.957 s  <<< FAILURE!
+org.openqa.selenium.remote.UnreachableBrowserException: 
+Error communicating with the remote browser. It may have died.
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5c28608661856f0f4eafc6a69b8bc25e, screenshot []]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.135, chrome: {chromedriverVersion: 142.0.7444.61 (9884f628acbc..., userDataDir: C:\Users\10820894\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58992}, goog:processID: 16164, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58992/devtoo..., se:cdpVersion: 142.0.7444.135, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5c28608661856f0f4eafc6a69b8bc25e
+	at runner.TestMadeInChina.verifyingSupplierEmailPage(TestMadeInChina.java:166)
+Caused by: java.io.UncheckedIOException: java.net.ConnectException
+	at runner.TestMadeInChina.verifyingSupplierEmailPage(TestMadeInChina.java:166)
+Caused by: java.net.ConnectException
+Caused by: java.nio.channels.ClosedChannelException
+
